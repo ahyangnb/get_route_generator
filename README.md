@@ -61,4 +61,4 @@ step1
 
 step2
 
-![step2](./images/step1.png)
+![step2](./images/step2.png)
