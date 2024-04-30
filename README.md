@@ -38,9 +38,9 @@ class WelcomePage extends StatelessWidget {
 ```
 When project file structure like:
 ```
-[welcome_page](..%2F..%2Fflutter_pro%2Fpair_up%2Flib%2Fpages%2Fwelcome_page)
-[welcome_binding.dart](..%2F..%2Fflutter_pro%2Fpair_up%2Flib%2Fpages%2Fwelcome_page%2Fwelcome_binding.dart)
-[welcome_logic.dart](..%2F..%2Fflutter_pro%2Fpair_up%2Flib%2Fpages%2Fwelcome_page%2Fwelcome_logic.dart)
-[welcome_state.dart](..%2F..%2Fflutter_pro%2Fpair_up%2Flib%2Fpages%2Fwelcome_page%2Fwelcome_state.dart)
-[welcome_view.dart](..%2F..%2Fflutter_pro%2Fpair_up%2Flib%2Fpages%2Fwelcome_page%2Fwelcome_view.dart)
+[welcome_page]
+    [welcome_binding.dart]
+    [welcome_logic.dart]
+    [welcome_state.dart]
+    [welcome_view.dart]
 ```
