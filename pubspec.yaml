@@ -1,6 +1,9 @@
 # pubspec.yaml
 name: get_route_generator
 description: A builder to generate routes_custom.dart file for GetX projects.
+homepage: https://github.com/ahyangnb/flutter_emoji_selector_plus
+issue_tracker: https://github.com/ahyangnb/flutter_emoji_selector_plus/issues
+repository: https://github.com/ahyangnb/flutter_emoji_selector_plus
 version: 0.0.1
 
 environment:
@@ -13,6 +16,7 @@ dependencies:
   build: ^2.1.0
   source_gen: ^1.1.0
   path: ^1.8.0
+  analyzer: ^5.8.0
 
 dev_dependencies:
   flutter_test:
