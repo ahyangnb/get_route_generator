@@ -1,0 +1,14 @@
+# build.yaml
+targets:
+  $default:
+    builders:
+      get_route_generator:
+        enabled: true
+
+builders:
+  get_route_generator:
+    import: "package:get_route_generator/src/builder.dart"
+    builder_factories: [ "getRouteGenerator" ]
+    build_extensions: { '$package$': [ '.g.dart' ] }
+    auto_apply: dependents
+    build_to: source

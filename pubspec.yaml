@@ -1,0 +1,22 @@
+# pubspec.yaml
+name: get_route_generator
+description: A builder to generate routes_custom.dart file for GetX projects.
+version: 0.0.1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  build: ^2.1.0
+  source_gen: ^1.1.0
+  path: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.1.4
+  build_test: ^2.1.0

@@ -1,0 +1,3 @@
+class GetGeneratePage {
+  const GetGeneratePage();
+}
