@@ -56,7 +56,9 @@ When project file structure like:
 # Create new page with GetX in android studio.
 
 step1
+
 ![step1](./images/step1.png)
 
 step2
+
 ![step2](./images/step1.png)
