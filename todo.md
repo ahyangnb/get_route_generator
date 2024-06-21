@@ -1,0 +1,1 @@
+generate page to code like `CoinShopPageTo.to();`.
